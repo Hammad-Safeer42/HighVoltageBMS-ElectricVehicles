@@ -22,7 +22,7 @@ The system is distributed across multiple slave boards and a master board:
 
 <img src="./images/slaveBoardPCB.png" alt="SlaveBoard" >
 
-<img src="./images/slaveBoardPCB.png" alt="SlaveBoard" >
+<img src="./images/slaveBoardPCB3d.png" alt="SlaveBoard" >
 
 <p align="center">
   <img src="./images/ADI_isolater.png" alt="Image 1" width="400" height="300" style="border-radius: 10px; border: 1px solid #ddd;">
