@@ -20,13 +20,13 @@ The system is distributed across multiple slave boards and a master board:
 - The **master board** communicates with all slave boards via an isolated communication bus, ensuring system integrity and safety.
 
 
-<img src="./images/SlaveBoardPCB.png" alt="SlaveBoard" >
+<img src="./images/slaveBoardPCB.png" alt="SlaveBoard" >
 
-<img src="./images/SlaveBoardPCB.png" alt="SlaveBoard" >
+<img src="./images/slaveBoardPCB.png" alt="SlaveBoard" >
 
 <p align="center">
-  <img src="./images/ADI_isolater.jpeg" alt="Image 1" width="400" height="300" style="border-radius: 10px; border: 1px solid #ddd;">
-  <img src="./images/ADI_isolater3d.jpeg" alt="Image 2" width="400" height="300" style="border-radius: 10px; border: 1px solid #ddd;">
+  <img src="./images/ADI_isolater.png" alt="Image 1" width="400" height="300" style="border-radius: 10px; border: 1px solid #ddd;">
+  <img src="./images/ADI_isolater3d.png" alt="Image 2" width="400" height="300" style="border-radius: 10px; border: 1px solid #ddd;">
 </p>
 
 This modular structure allows for easy scaling depending on the number of cells in the vehicle's battery pack.
