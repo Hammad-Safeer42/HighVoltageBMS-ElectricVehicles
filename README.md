@@ -34,5 +34,6 @@ This modular structure allows for easy scaling depending on the number of cells 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
+
 
